@@ -1,0 +1,2 @@
+Hii, I'm learning javascript!!
+I hope I become a Fullstack developer someday
